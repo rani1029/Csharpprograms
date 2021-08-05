@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.genruntimeconfig.cache
