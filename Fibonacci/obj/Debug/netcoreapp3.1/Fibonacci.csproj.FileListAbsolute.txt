@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
