@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.genruntimeconfig.cache
