@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\bin\Debug\netcoreapp3.1\VowelConso.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\VowelConso\obj\Debug\netcoreapp3.1\VowelConso.genruntimeconfig.cache
