@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.genruntimeconfig.cache
