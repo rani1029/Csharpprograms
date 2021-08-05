@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\bin\Debug\netcoreapp3.1\Largestnum.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Largestnum\obj\Debug\netcoreapp3.1\Largestnum.genruntimeconfig.cache
