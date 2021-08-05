@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.exe
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.deps.json
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.dll
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\bin\Debug\netcoreapp3.1\SwapTwoNum.pdb
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.dll
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.pdb
+C:\Users\admin\Desktop\Terminalcommands\FlipCoin\Remainder\SwapTwoNum\obj\Debug\netcoreapp3.1\SwapTwoNum.genruntimeconfig.cache
