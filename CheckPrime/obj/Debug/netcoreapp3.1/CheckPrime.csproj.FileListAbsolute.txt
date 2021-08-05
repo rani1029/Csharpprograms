@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.genruntimeconfig.cache
