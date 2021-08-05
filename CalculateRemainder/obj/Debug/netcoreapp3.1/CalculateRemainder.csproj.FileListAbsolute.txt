@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\bin\Debug\netcoreapp3.1\CalculateRemainder.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CalculateRemainder\obj\Debug\netcoreapp3.1\CalculateRemainder.genruntimeconfig.cache
