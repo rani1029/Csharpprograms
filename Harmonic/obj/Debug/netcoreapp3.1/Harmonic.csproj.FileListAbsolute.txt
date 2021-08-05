@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.genruntimeconfig.cache
