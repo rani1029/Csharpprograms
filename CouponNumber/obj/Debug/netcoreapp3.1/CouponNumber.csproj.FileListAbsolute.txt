@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.genruntimeconfig.cache
