@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\bin\Debug\netcoreapp3.1\PerFectNumber.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\Csharpprograms\PerFectNumber\obj\Debug\netcoreapp3.1\PerFectNumber.genruntimeconfig.cache
